@@ -11,6 +11,7 @@ namespace ExeProp01
 
             while (true)
             {
+                Console.WriteLine("_______________________");
                 Console.WriteLine("Welcome to Learning-Inn");
                 Console.WriteLine();
 
